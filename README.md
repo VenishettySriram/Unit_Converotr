@@ -1,45 +1,26 @@
-#Unit Converter Android App
-This is an Android app that allows users to convert between different units of measurement.
+# Android Unit Converter App
 
-Features
-User friendly interface for converting between units
-Supports conversion for various categories like weight, length, temperature, etc
-Options to add and save customized conversions
-Material design for intuitive user experience
-Requirements
-Android Studio
-Android device or emulator
-Installation
-Clone this repository
-<!---->
-Copy code
+![Unit Converter App Logo](app_logo.png)
 
-git clone https://github.com/<username>/unit-converter-android
-2.  Open the project in Android Studio
-3.  Build and run the app on an emulator or Android device
+## Overview
 
-Usage
-Choose a category of units to convert between e.g. Length
-Select the input unit
-Enter the input value
-The converted value is displayed in the output unit
-Swap input and output units as needed
-Add new conversions by tapping the + button (requires logging in)
-Saved conversions synced across devices for each user
-Customizing
-The app uses a ConversionRepository to manage available conversions
-Add new units and conversions by modifying this repository
-Use MVP architecture to separate UI and logic components
-See code comments for tips on extending functionality
-Contributing
-Contributions to add more units and features are welcome!
+The Android Unit Converter app is a powerful and user-friendly tool built using Android Java. It allows users to convert various units, making calculations at their fingertips. Whether you need to convert distances, temperatures, weights, speeds, frequencies, volumes, times, or complex units from mathematics and science, this app has got you covered.
 
-Fork this repository
-Create a new branch git checkout -b new-feature
-Commit changes git commit -am 'Add new feature'
-Push to branch git push origin new-feature
-Create a pull request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Features
 
-Let me know if you would like me to explain or expand on any part of this README! I'm happy to provide more details on setting up the project, architecture, customization, etc.
+- **User-friendly Interface:** The app offers a simple and intuitive user interface, making it easy for users to perform conversions with just a few taps.
+
+- **Extensive Unit Conversion:** Convert a wide range of units, including distances, temperatures, weights, speeds, frequencies, volumes, times, and various complex units from mathematics and science.
+
+- **Quick Calculations:** Besides unit conversion, the app empowers users to perform quick calculations with ease.
+
+- **Customization Options:** The app provides customization options, allowing users to add new units or categories for conversion to tailor the app according to their specific needs.
+
+## Getting Started
+
+To run the Android Unit Converter app on your Android device or emulator, follow these steps:
+
+1. Clone this repository to your local machine using Git:
+
+   ```bash
+   git clone https://github.com/VenishettySriram/Unit_Convertor.git
