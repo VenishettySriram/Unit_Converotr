@@ -1,6 +1,6 @@
 # Android Unit Converter App
 
-![Unit Converter App Logo](app_logo.png)
+This is an Android app that allows users to convert between different units of measurement.
 
 ## Overview
 
@@ -14,13 +14,28 @@ The Android Unit Converter app is a powerful and user-friendly tool built using 
 
 - **Quick Calculations:** Besides unit conversion, the app empowers users to perform quick calculations with ease.
 
-- **Customization Options:** The app provides customization options, allowing users to add new units or categories for conversion to tailor the app according to their specific needs.
 
-## Getting Started
+## Requirements
 
-To run the Android Unit Converter app on your Android device or emulator, follow these steps:
+- Android Studio
+- Android device or emulator
 
-1. Clone this repository to your local machine using Git:
+## Installation
 
-   ```bash
-   git clone https://github.com/VenishettySriram/Unit_Convertor.git
+1. Clone this repository
+```
+git clone https://github.com/<username>/unit-converter-android
+```
+2. Open the project in Android Studio
+3. Build and run the app on an emulator or Android device
+
+
+## Contributing
+
+Contributions to add more units and features are welcome!
+
+1. Fork this repository
+2. Create a new branch `git checkout -b new-feature`
+3. Commit changes `git commit -am 'Add new feature'`
+4. Push to branch `git push origin new-feature`  
+5. Create a pull request
